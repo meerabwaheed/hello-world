@@ -142,3 +142,25 @@ Here is the unorderd list
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<form>
+
+Name:
+<input type="text"><br><br>
+
+Email:
+<input type="email"><br><br>
+
+Password:
+<input type="password"><br><br>
+
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>
