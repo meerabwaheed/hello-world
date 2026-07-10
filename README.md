@@ -91,8 +91,9 @@ Visit Google
 <!DOCTYPE html>
 <html>
 <body>
-// here is the orderd list
+
 <ol>
+    // here is the orderd list
     <li>Apple</li>
     <li>Mango</li>
     <li>Banana</li>
