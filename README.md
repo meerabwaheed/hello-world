@@ -88,4 +88,15 @@ Visit Google
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+// here is the orderd list
+<ol>
+    <li>Apple</li>
+    <li>Mango</li>
+    <li>Banana</li>
+</ol>
 
+</body>
+</html>
