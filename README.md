@@ -118,3 +118,32 @@ Visit Google
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Website</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <p>My name is Meerab Waheed.</p>
+
+    <h2>My Skills</h2>
+
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>C#</li>
+    </ul>
+
+    <a href="https://github.com/meerabwaheed">
+        Visit My GitHub
+    </a>
+
+</body>
+
+</html>
