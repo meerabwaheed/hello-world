@@ -116,3 +116,29 @@ Here is the unorderd list
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<table border="1">
+
+<tr>
+    <th>Name</th>
+    <th>Age</th>
+</tr>
+
+<tr>
+    <td>Umar</td>
+    <td>21</td>
+</tr>
+
+<tr>
+    <td>Meerab</td>
+    <td>19</td>
+</tr>
+
+</table>
+
+</body>
+</html>
