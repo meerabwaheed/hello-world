@@ -161,6 +161,8 @@ Password:
 <input type="submit" value="Submit">
 
 </form>
-
+<input type="text" placeholder="Meerab">
+<input type="email" placeholder="meerabdev@gmail.com">
+<input type="password" placeholder="main nae bataongi">
 </body>
 </html>
