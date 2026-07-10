@@ -150,13 +150,13 @@ Here is the unorderd list
 <form>
 
 Name:
-<input type="text"><br><br>
+<input type="text" value="Meerab"><br><br>
 
 Email:
-<input type="email"><br><br>
+<input type="email" value="meerabdev@gmail.com"><br><br>
 
 Password:
-<input type="password"><br><br>
+<input type="password" value="main nae bataongi"><br><br>
 
 <input type="submit" value="Submit">
 
