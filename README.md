@@ -66,13 +66,13 @@ This repository is created to learn GitHub and C# programming.
 
 <u>Underline Text</u>
 
-</body>
-</html>
 <!DOCTYPE html>
 <html>
 <body>
 
-<img src="cat.jpg" alt="Cat" width="250">
+<a href="https://en.wikipedia.org/wiki/Cat">
+    <img src="https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_1280.jpg" alt="Cat" width="250">
+</a>
 
 </body>
 </html>
