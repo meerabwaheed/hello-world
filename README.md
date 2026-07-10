@@ -56,3 +56,15 @@ This repository is created to learn GitHub and C# programming.
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<b>Bold Text</b><br>
+
+<i>Italic Text</i><br>
+
+<u>Underline Text</u>
+
+</body>
+</html>
