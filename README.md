@@ -106,11 +106,11 @@ Visit Google
 
 <form>
 
-<input type="text" value="Meerab"><br><br>
+<input type="text" placeholder="Name"><br><br>
 
-<input type="email" value="meerabdev@gmail.com"><br><br>
+<input type="email" placeholder="Email"><br><br>
 
-<input type="password" value="main nae bataongi"><br><br>
+<input type="password" placeholder="Password"><br><br>
 
 <input type="submit" value="Submit">
 
