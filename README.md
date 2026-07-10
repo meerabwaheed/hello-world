@@ -147,3 +147,13 @@ Visit Google
 </body>
 
 </html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<input type="radio" name="gender"> Male
+
+<input type="radio" name="gender"> Female
+
+</body>
+</html>
