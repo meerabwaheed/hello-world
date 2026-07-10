@@ -114,26 +114,21 @@ Here is the unorderd list
     <li>JavaScript</li>
 </ul>
 
-</body>
-</html>
-
 <!DOCTYPE html>
 <html>
 <body>
 
 <form>
+    <label>Name:</label><br>
+    <input type="text" value="Meerab"><br><br>
 
-Name:
-<input type="text" value="Meerab"><br><br>
+    <label>Email:</label><br>
+    <input type="email" value="meerabdev@gmail.com"><br><br>
 
-Email:
-<input type="email" value="meerabdev@gmail.com"><br><br>
+    <label>Password:</label><br>
+    <input type="password" value="main nae bataongi"><br><br>
 
-Password:
-<input type="password" value="main nae bataongi"><br><br>
-
-<input type="submit" value="Submit">
-
+    <input type="submit" value="Submit">
 </form>
 
 </body>
