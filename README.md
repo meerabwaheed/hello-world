@@ -100,35 +100,20 @@ Visit Google
     <li>Banana</li>
 </ol>
 
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<body>
-
-<ul>
-Here is the unorderd list
-    
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-</ul>
-
 <!DOCTYPE html>
 <html>
 <body>
 
 <form>
-    <label>Name:</label><br>
-    <input type="text" value="Meerab"><br><br>
 
-    <label>Email:</label><br>
-    <input type="email" value="meerabdev@gmail.com"><br><br>
+<input type="text" value="Meerab"><br><br>
 
-    <label>Password:</label><br>
-    <input type="password" value="main nae bataongi"><br><br>
+<input type="email" value="meerabdev@gmail.com"><br><br>
 
-    <input type="submit" value="Submit">
+<input type="password" value="main nae bataongi"><br><br>
+
+<input type="submit" value="Submit">
+
 </form>
 
 </body>
