@@ -148,21 +148,17 @@ Here is the unorderd list
 <body>
 
 <form>
+    Name:
+    <input type="text" value="Meerab"><br><br>
 
-Name:
-<input type="text" value="Meerab"><br><br>
+    Email:
+    <input type="email" value="meerabdev@gmail.com"><br><br>
 
-Email:
-<input type="email" value="meerabdev@gmail.com"><br><br>
+    Password:
+    <input type="password" value="main nae bataongi"><br><br>
 
-Password:
-<input type="password" value="main nae bataongi"><br><br>
-
-<input type="submit" value="Submit">
-
+    <input type="submit" value="Submit">
 </form>
-<input type="text" placeholder="Meerab">
-<input type="email" placeholder="meerabdev@gmail.com">
-<input type="password" placeholder="main nae bataongi">
+
 </body>
 </html>
