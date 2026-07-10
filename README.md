@@ -121,43 +121,19 @@ Here is the unorderd list
 <html>
 <body>
 
-<table border="1">
-
-<tr>
-    <th>Name</th>
-    <th>Age</th>
-</tr>
-
-<tr>
-    <td>Umar</td>
-    <td>21</td>
-</tr>
-
-<tr>
-    <td>Meerab</td>
-    <td>19</td>
-</tr>
-
-</table>
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<body>
-
 <form>
-    Name:
-    <input type="text" value="Meerab"><br><br>
 
-    Email:
-    <input type="email" value="meerabdev@gmail.com"><br><br>
+Name:
+<input type="text" value="Meerab"><br><br>
 
-    Password:
-    <input type="password" value="main nae bataongi"><br><br>
+Email:
+<input type="email" value="meerabdev@gmail.com"><br><br>
 
-    <input type="submit" value="Submit">
+Password:
+<input type="password" value="main nae bataongi"><br><br>
+
+<input type="submit" value="Submit">
+
 </form>
 
 </body>
