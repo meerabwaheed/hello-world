@@ -116,3 +116,20 @@ Visit Google
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropdown</title>
+</head>
+<body>
+
+<h2>Select City</h2>
+
+<select>
+    <option>Lahore</option>
+    <option>Karachi</option>
+    <option>Islamabad</option>
+</select>
+
+</body>
+</html>
