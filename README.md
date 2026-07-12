@@ -101,3 +101,18 @@ Visit Google
 </ol>
 
 <!DOCTYPE html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Radio Button</title>
+</head>
+<body>
+
+<h2>Select Gender</h2>
+
+<input type="radio" name="gender"> Male <br>
+<input type="radio" name="gender"> Female
+
+</body>
+</html>
